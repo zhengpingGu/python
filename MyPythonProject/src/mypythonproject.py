@@ -2,7 +2,7 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-__author__="guzp"
+__author__="guzhengping"
 __date__ ="$2014-6-17 16:00:33$"
 
 if __name__ == "__main__":
